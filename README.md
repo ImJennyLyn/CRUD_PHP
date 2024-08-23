@@ -1,4 +1,4 @@
-# CRUD Application Screenshots
+# CRUD 
 
 ## LOG IN PAGE
 ![LOG IN PAGE](https://github.com/user-attachments/assets/6395aeed-ef3d-4ca5-a2df-f9bed3442713)
